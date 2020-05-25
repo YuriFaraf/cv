@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  font-family: Garamond, Georgie, Bell MT, Goudy Old Style, serif;
+  font-family: Century Gothic, Lucida Sans, Arial, Tahoma, sans-serif;
   font-size: 20px;
   color: #112233;
   max-width: 720px;
@@ -44,6 +44,12 @@ p {
 
 .small-title {
   font-size: 24px;
+}
+
+.skills {
+  font-weight: lighter;
+  padding-top: 10px;
+  padding-bottom: 7px;
 }
 
 .link {
