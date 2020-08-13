@@ -23,14 +23,18 @@ strong {
 }
 
 p {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .list > li {
   list-style-position: inside;
   padding-top: 3px;
   padding-bottom: 3px;
+}
+
+.buffer-top, .small-title {
+  margin-top: 30px;
 }
 
 .title, .small-title {
@@ -48,6 +52,7 @@ p {
 
 .skills {
   font-weight: lighter;
+  margin-top: 10px;
   padding-top: 10px;
   padding-bottom: 7px;
 }
